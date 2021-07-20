@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit2060
 - 👀 I’m interested in learning computer science
 - 🌱 I’m currently learning science in school.
-- 💞️ I’m still trying to learn programming, just the Cs50 course. Hope it goes well.
+- 💞️ I’m still trying to learn programming, just started the Cs50 course. Hope it goes well.
 - 📫 IG: _ghimire_mohit
 
 <!---
